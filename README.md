@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Kiran 👋
 
-<!--
-**kkchgit/kkchgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud platform, infrastructure, and security engineering leader. I build the
+**paved roads** that let product teams ship fast on foundations they can
+depend on — secure by default, reliable at scale, and sensible on cost.
 
-Here are some ideas to get you started:
+I've spent my career leading platform and security engineering across large,
+high-scale environments, and I still like being close to the work: in the
+architecture, in the code, and in the hard production decisions. This profile
+is where I keep hands-on work that reflects how I think about building
+infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I focus on
+
+- **Secure-by-default platforms** — hardened, reusable Infrastructure-as-Code
+  where security and compliance are inherited, not bolted on.
+- **Reliability & scale** — SLOs, observability, and capacity thinking for
+  services that have to stay up.
+- **Cloud security** — least privilege, policy-as-code, attack-surface
+  reduction, and making the secure path the easy path.
+- **FinOps** — understanding what drives cost and keeping it honest as usage grows.
+
+### Featured work
+
+- **[terraform-secure-modules](https://github.com/kkchgit/terraform-secure-modules)**
+  — Secure-by-default AWS Terraform modules (S3, IAM, VPC, security groups,
+  KMS) with CIS control mappings, plan-time guardrails, and an explicit
+  escape-hatch pattern. A reference implementation of the paved-road approach.
+
+### Toolbox
+
+`AWS` · `Terraform` · `Kubernetes` · `CI/CD` · `Python` · `Linux` ·
+`Security Engineering` · `SRE` · `Policy-as-Code`
+
+---
+
+*Currently exploring senior platform / cloud / security engineering leadership
+roles. Always happy to talk infrastructure.*
