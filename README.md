@@ -36,9 +36,5 @@ infrastructure.
 `Linux` · `Security Engineering` · `SRE` · `Policy-as-Code`
 
 ---
-
-*Currently exploring senior platform / cloud / security engineering leadership
-roles. Always happy to talk infrastructure.*
-
 *Currently exploring senior platform / cloud / security engineering leadership
 roles. Always happy to talk infrastructure.*
