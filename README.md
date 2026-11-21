@@ -23,16 +23,22 @@ infrastructure.
 ### Featured work
 
 - **[terraform-secure-modules](https://github.com/kkchgit/terraform-secure-modules)**
-  — Secure-by-default AWS Terraform modules (S3, IAM, VPC, security groups,
-  KMS) with CIS control mappings, plan-time guardrails, and an explicit
-  escape-hatch pattern. A reference implementation of the paved-road approach.
+  — Secure-by-default Terraform modules spanning **AWS, GCP, and Azure**
+  (storage, networking, identity, and encryption). Hardened defaults, CIS
+  Foundations control mappings, plan-time guardrails, and an explicit
+  escape-hatch pattern, with CI that runs `fmt`, `validate`, and `tflint`
+  across every module. A reference implementation of the paved-road approach,
+  applied consistently across all three major clouds.
 
 ### Toolbox
 
-`AWS` · `Terraform` · `Kubernetes` · `CI/CD` · `Python` · `Linux` ·
-`Security Engineering` · `SRE` · `Policy-as-Code`
+`AWS` · `GCP` · `Azure` · `Terraform` · `Kubernetes` · `CI/CD` · `Python` ·
+`Linux` · `Security Engineering` · `SRE` · `Policy-as-Code`
 
 ---
+
+*Currently exploring senior platform / cloud / security engineering leadership
+roles. Always happy to talk infrastructure.*
 
 *Currently exploring senior platform / cloud / security engineering leadership
 roles. Always happy to talk infrastructure.*
