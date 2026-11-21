@@ -37,4 +37,4 @@ infrastructure.
 
 ---
 *Currently exploring senior platform / cloud / security engineering leadership
-roles. Always happy to talk infrastructure.*
+roles. Always happy to talk infrastructure & Security.*
